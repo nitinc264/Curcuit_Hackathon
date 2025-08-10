@@ -1,0 +1,5 @@
+class{
+    do {
+        
+    } while (condition);
+}
